@@ -1,9 +1,4 @@
-#AYHANS SNAKE SPEL
-
-
-#Importera
-import pygame
-import time
+rt time
 import random
 
 #Initialisera modulen
